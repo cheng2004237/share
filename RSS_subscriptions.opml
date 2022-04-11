@@ -49,16 +49,6 @@
 		<outline text="Chun Tian (binghe)" title="Chun Tian (binghe)" description="" type="rss" version="RSS" htmlUrl="https://ctian.livejournal.com/" xmlUrl="https://ctian.livejournal.com/data/rss"/>
 		<outline text="Coding Horror" title="Coding Horror" description="" type="rss" version="RSS" htmlUrl="https://blog.codinghorror.com/" xmlUrl="http://feeds.feedburner.com/codinghorror/"/>
 		<outline text="Dan Wang" title="Dan Wang" description="" type="rss" version="RSS" htmlUrl="https://danwang.co/" xmlUrl="https://danwang.co/feed/"/>
-		<outline text="Daniel Lemire's blog" title="Daniel Lemire's blog" description="" type="rss" version="RSS" htmlUrl="https://lemire.me/blog" xmlUrl="http://feeds.feedburner.com/daniel-lemire/atom"/>
-		<outline text="EGOIST (english)" title="EGOIST (english)" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://egoist.sh/atom.xml"/>
-		<outline text="Evan You" title="Evan You" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://blog.evanyou.me/atom.xml"/>
-		<outline text="Exception Not Found" title="Exception Not Found" description="" type="rss" version="RSS" htmlUrl="https://exceptionnotfound.net/" xmlUrl="http://feeds.feedburner.com/ExceptionNotFound"/>
-		<outline text="Free Mind" title="Free Mind" description="" type="rss" version="RSS" htmlUrl="https://blog.pluskid.org/" xmlUrl="http://blog.pluskid.org/?feed=rss2"/>
-		<outline text="Free Mind" title="Free Mind" description="" type="rss" version="RSS" htmlUrl="http://freemind.pluskid.org/" xmlUrl="http://freemind.pluskid.org/rss.xml"/>
-		<outline text="Funny JS" title="Funny JS" description="" type="rss" version="RSS" htmlUrl="https://funnyjs.com/" xmlUrl="https://funnyjs.com/feed/"/>
-		<outline text="Gee Law’s Blog" title="Gee Law’s Blog" description="" type="rss" version="RSS" htmlUrl="https://geelaw.blog/?utm_source=feed&amp;utm_medium=rss" xmlUrl="https://geelaw.blog/rss.xml"/>
-		<outline text="GeekPlux" title="GeekPlux" description="" type="rss" version="RSS" htmlUrl="https://geekplux.com/" xmlUrl="https://geekplux.com/feed.xml"/>
-		<outline text="GeekPlux" title="GeekPlux" description="" type="rss" version="RSS" htmlUrl="https://geekplux.me/" xmlUrl="https://geekplux.me/feed.xml"/>
 		<outline text="Halfrost's Field | 冰霜之地" title="Halfrost's Field | 冰霜之地" description="" type="rss" version="RSS" htmlUrl="https://halfrost.com/" xmlUrl="https://halfrost.com/rss/"/>
 		<outline text="Hi, DIYgod" title="Hi, DIYgod" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://diygod.me/atom.xml"/>
 		<outline text="HuoJu's BLOG" title="HuoJu's BLOG" description="" type="rss" version="RSS" htmlUrl="http:///" xmlUrl="http://feeds2.feedburner.com/virushuo"/>
@@ -107,11 +97,6 @@
 		<outline text="Tim's Blog" title="Tim's Blog" description="" type="rss" version="RSS" htmlUrl="https://wuzhiwei.net/" xmlUrl="http://wuzhiwei.net/feed/"/>
 		<outline text="Tony Bai" title="Tony Bai" description="" type="rss" version="RSS" htmlUrl="https://tonybai.com/" xmlUrl="http://tonybai.com/feed/"/>
 		<outline text="Tychlog" title="Tychlog" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://blog.tychio.net/atom.xml"/>
-		<outline text="" title="" description="" type="rss" version="RSS" htmlUrl="https://www.maartenlambrechts.com/" xmlUrl="https://www.maartenlambrechts.com/feed.xml"/>
-		<outline text="Wait But Why" title="Wait But Why" description="" type="rss" version="RSS" htmlUrl="https://waitbutwhy.com/" xmlUrl="https://waitbutwhy.com/feed"/>
-		<outline text="wzyboy’s blog" title="wzyboy’s blog" description="" type="rss" version="RSS" htmlUrl="https://wzyboy.im/" xmlUrl="https://wzyboy.im/feed.xml"/>
-		<outline text="xkcd.com" title="xkcd.com" description="" type="rss" version="RSS" htmlUrl="https://xkcd.com/" xmlUrl="https://xkcd.com/rss.xml"/>
-		<outline text="Xuanwo's Blog" title="Xuanwo's Blog" description="" type="rss" version="RSS" htmlUrl="https://xuanwo.io/" xmlUrl="https://xuanwo.io/index.xml"/>
 		<outline text="YanyiWu" title="YanyiWu" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://yanyiwu.com/rss.xml"/>
 		<outline text="Yihui's Blog on Yihui Xie | 谢益辉" title="Yihui's Blog on Yihui Xie | 谢益辉" description="" type="rss" version="RSS" htmlUrl="https://yihui.org/en/" xmlUrl="http://yihui.name/en/feed/"/>
 		<outline text="Yuexun's Blog" title="Yuexun's Blog" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.yuexunjiang.me/rss.xml"/>
