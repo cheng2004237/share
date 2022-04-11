@@ -165,31 +165,7 @@
 		<outline text="Information is Beautiful" title="Information is Beautiful" description="" type="rss" version="RSS" htmlUrl="https://informationisbeautiful.net/" xmlUrl="http://feeds.feedburner.com/InformationIsBeautiful"/>
 		<outline text="InfoVis:Wiki - News [en]" title="InfoVis:Wiki - News [en]" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://www.infovis-wiki.net/index.php?title=Special:Newsfeed&amp;feed=rss"/>
 		<outline text="Juice Analytics" title="Juice Analytics" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://feeds.feedburner.com/JuiceAnalytics"/>
-		<outline text="Lackar Zhao" title="Lackar Zhao" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://lackarzhao.ivyb.org/?feed=rss2"/>
-		<outline text="Lines and Colors" title="Lines and Colors" description="" type="rss" version="RSS" htmlUrl="http://linesandcolors.com/" xmlUrl="http://www.linesandcolors.com/feed/"/>
-		<outline text="PKU Visualization Blog" title="PKU Visualization Blog" description="" type="rss" version="RSS" htmlUrl="http://vis.pku.edu.cn/blog" xmlUrl="http://vis.pku.edu.cn/blog/?feed=rss2"/>
-		<outline text="VAG" title="VAG" description="" type="rss" version="RSS" htmlUrl="http://www.cad.zju.edu.cn/home/vagblog" xmlUrl="http://www.cad.zju.edu.cn/home/vagblog/?feed=rss2"/>
-		<outline text="Vis &amp; More" title="Vis &amp; More" description="" type="rss" version="RSS" htmlUrl="https://tamaramunzner.wordpress.com/" xmlUrl="https://tamaramunzner.wordpress.com/feed/"/>
-		<outline text="Visual Business Intelligence" title="Visual Business Intelligence" description="" type="rss" version="RSS" htmlUrl="http://www.perceptualedge.com/blog" xmlUrl="http://www.perceptualedge.com/blog/?feed=rss2"/>
-		<outline text="Visual Capitalist" title="Visual Capitalist" description="" type="rss" version="RSS" htmlUrl="https://www.visualcapitalist.com/" xmlUrl="https://feeds.feedburner.com/visualcapitalist"/>
-		<outline text="Visual.ly" title="Visual.ly" description="" type="rss" version="RSS" htmlUrl="https://visual.ly/" xmlUrl="http://visual.ly/rss.xml"/>
-		<outline text="visualcomplexity.com" title="visualcomplexity.com" description="" type="rss" version="RSS" htmlUrl="http://www.visualcomplexity.com/" xmlUrl="http://feeds.feedburner.com/visualcomplexity"/>
-		<outline text="Visualising Data" title="Visualising Data" description="" type="rss" version="RSS" htmlUrl="https://www.visualisingdata.com/" xmlUrl="http://www.visualisingdata.com/index.php/feed/"/>
-		<outline text="VisualMente" title="VisualMente" description="" type="rss" version="RSS" htmlUrl="http://visualmente.blogspot.com/" xmlUrl="http://visualmente.blogspot.com/feeds/posts/default"/>
-		<outline text="We Love Datavis" title="We Love Datavis" description="" type="rss" version="RSS" htmlUrl="https://datavis.tumblr.com/" xmlUrl="http://datavis.tumblr.com/rss"/>
-		<outline text="What's New" title="What's New" description="" type="rss" version="RSS" htmlUrl="https://www.tableau.com/" xmlUrl="http://www.tableausoftware.com/blog/feed"/>
 		<outline text="视物" title="视物" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://www.vizinsight.com/feed/"/>
-	</outline>
-	<outline text="Web" title="Web">
-		<outline text="AddyOsmani.com" title="AddyOsmani.com" description="" type="rss" version="RSS" htmlUrl="https://addyosmani.com/" xmlUrl="https://addyosmani.com/rss.xml"/>
-		<outline text="Christian Heilmann" title="Christian Heilmann" description="" type="rss" version="RSS" htmlUrl="https://christianheilmann.com/" xmlUrl="https://christianheilmann.com/feed/"/>
-		<outline text="Dan Abramov's Overreacted Blog RSS Feed" title="Dan Abramov's Overreacted Blog RSS Feed" description="" type="rss" version="RSS" htmlUrl="https://overreacted.io/" xmlUrl="https://overreacted.io/rss.xml"/>
-		<outline text="David Walsh Blog" title="David Walsh Blog" description="" type="rss" version="RSS" htmlUrl="https://davidwalsh.name/" xmlUrl="https://davidwalsh.name/feed"/>
-		<outline text="Human Who Codes" title="Human Who Codes" description="" type="rss" version="RSS" htmlUrl="https://humanwhocodes.com/" xmlUrl="https://humanwhocodes.com/feeds/blog.xml"/>
-		<outline text="James Sinclair" title="James Sinclair" description="" type="rss" version="RSS" htmlUrl="http://jrsinclair.com/" xmlUrl="http://jrsinclair.com/index.rss"/>
-		<outline text="John Resig" title="John Resig" description="" type="rss" version="RSS" htmlUrl="https://johnresig.com/" xmlUrl="http://feeds.feedburner.com/JohnResig"/>
-		<outline text="Paul Irish" title="Paul Irish" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://feeds.feedburner.com/paul-irish"/>
-		<outline text="The ephemera of Nicolas Gallagher" title="The ephemera of Nicolas Gallagher" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://nicolasgallagher.com/category/code/feed/"/>
 	</outline>
 	<outline text="人文" title="人文">
 		<outline text="All Poetry - NEWESTewest" title="All Poetry - NEWESTewest" description="" type="rss" version="RSS" htmlUrl="https://allpoetry.com/poems/about/spotlight-oldpoem?order=newest}" xmlUrl="https://rsshub.app/allpoetry/newest"/>
